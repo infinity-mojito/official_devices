@@ -3,7 +3,7 @@
 
 Clean Flash:
 
-1. Boot to OFOX recovery - Use command fastboot flash boot OFOX.IMG in fastboot mode
+1. Boot to OFOX recovery - Use command ``` bash fastboot flash boot OFOX.IMG``` in fastboot mode
 2. Flash PBRP Recovery zip then Reboot to PBRP Recovery
 3. Format data
 4. Reboot to recovery
