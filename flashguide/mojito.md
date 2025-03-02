@@ -1,9 +1,10 @@
 # Flashing Method: Project_Infinity-X (mojito)
+
 - [Download Mojito Recovery Tools](https://sourceforge.net/projects/infinity-x/files/mojito/recovery_images/)
 
 Clean Flash:
 
-1. Boot to OFOX recovery - Use command ``` bash fastboot flash boot OFOX.IMG``` in fastboot mode
+1. Boot to OFOX recovery - Use command ```fastboot flash boot OFOX.img``` in fastboot mode
 2. Flash PBRP Recovery zip then Reboot to PBRP Recovery
 3. Format data
 4. Reboot to recovery
